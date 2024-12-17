@@ -13,4 +13,4 @@ int main(){
     cin>> n; 
 
     printFun(1,n);
-}
+} 
