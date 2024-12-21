@@ -9,5 +9,5 @@ int main(){
 
     cout<<&x<<endl; // & diye address ante hoi 
     cout<<ptr<<endl;
-    cout<<*ptr<<endl; // 8 diye value ante hoi
-}
+    cout<<*ptr<<endl; // * diye value ante hoi
+} 
